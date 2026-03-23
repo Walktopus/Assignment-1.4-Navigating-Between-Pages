@@ -18,14 +18,14 @@ float: left;
 padding: 5px;
 /*This is the line height property this property controls the space between each line of text*/
 line-height: 30px;
-/*This is another margin property except this time the margin is on the left*/
+/*This is the margin left property this property controls the left margins size*/
 margin-left: 200px;
 }
 /*This is the footer section this controls the formating of footer section of the webpage this program is applied to*/
 footer{
     /*This is the text align property this property changes the alignment of the text*/
 text-align: center;
-/*This is the margin right property this property controls the right margins size*/
+ /*This is another margin property except this time the margin is on the right*/
 margin-right: 200px;
 }
 /*This is the Meme image section this section controls the formating of the meme image in the index program*/
